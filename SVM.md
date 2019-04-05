@@ -1,4 +1,4 @@
-Image Classification using SVM
+# Image Classification using SVM
 ================
 
 Optical Character recognition using SVM
